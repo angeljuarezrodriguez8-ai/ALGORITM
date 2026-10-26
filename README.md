@@ -4,11 +4,7 @@ Estructura base para organizar los cinco ejercicios. Los scripts son plantillas:
 
 ## Estructura
 
-```text
 proyecto-optimizacion-paralelismo/
-├── README.md
-├── requirements.txt
-├── ejecutar_todo.py
 ├── src/
 │   ├── __init__.py
 │   ├── ejercicio_1_pi_paralelo.py
@@ -24,8 +20,5 @@ proyecto-optimizacion-paralelismo/
 │   ├── ejercicio_4_tiempo_calidad.png
 │   ├── ejercicio_5_razon_aproximacion_mst.png
 │   └── ejercicio_5_comparacion_global.png
-└── documentos/
-    └── reporte_final.pdf
-```
 
-Las imágenes y el reporte se añadirán cuando realices los experimentos. `ejecutar_todo.py` será el punto de entrada para ejecutar los cinco ejercicios.
+    └
